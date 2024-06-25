@@ -46,14 +46,14 @@
     background-position-x: -15px;
     background-size: 400px;
     background-repeat: no-repeat;
-    background-image: url();
+    background-image: url(../images/caveira.jpeg);
 }
 
 #dish3{
     height: 500px;
     background-size: 400px;
     background-repeat: no-repeat;
-    background-image: url(/images/fantasma.jpeg);
+    background-image: url(../images/fantasma.jpeg);
 }
 
 #dish4{
@@ -61,20 +61,20 @@
     background-position-x: -70px;
     background-size: 470px;
     background-repeat: no-repeat;
-    background-image: url(/images/fe.PNG);
+    background-image: url(../images/fe.PNG);
 }
 #dish5{
     height: 500px;
     background-size: 470px;
     background-repeat: no-repeat;
-    background-image: url(/images/panico.PNG);
+    background-image: url(../images/panico.PNG);
 }
 #dish6{
     height: 500px;
     background-position-x: -100px;
     background-size: 510px;
     background-repeat: no-repeat;
-    background-image: url(/images/sorriso.PNG);
+    background-image: url(../images/sorriso.PNG);
 }
 
 h4{
