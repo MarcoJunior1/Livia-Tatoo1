@@ -51,6 +51,11 @@ section {
     transition: background-color .3s ease;
 }
 
+a{
+    text-decoration: none;
+    color: black;
+}
+
 .btn-default:hover {
     background-color: rgb(158, 158, 158);
     
