@@ -33,9 +33,10 @@
 }
 
 #dish1{
-    background-position-x: -100px;
+    background-position-x: -30px;
     height: 500px;
-    background-position-y: -100px;
+    background-size: 350px;
+    background-repeat:no-repeat ;
     
     background-image: url(../images/coruja.jpeg);
    
@@ -44,7 +45,7 @@
 #dish2{
     height: 500px;
     background-position-x: -15px;
-    background-size: 400px;
+    background-size: 340px;
     background-repeat: no-repeat;
     background-image: url(../images/caveira.jpeg);
 }
@@ -52,8 +53,9 @@
 #dish3{
     height: 500px;
     background-size: 400px;
+    background-position-x:-40px ;
     background-repeat: no-repeat;
-    background-image: url(../images/fantasma.jpeg);
+    background-image: url(../images/maocomchifre.jpg);
 }
 
 #dish4{
@@ -61,20 +63,22 @@
     background-position-x: -70px;
     background-size: 470px;
     background-repeat: no-repeat;
-    background-image: url(../images/fe.PNG);
+    background-image: url(../images/magia.jpg);
 }
 #dish5{
     height: 500px;
-    background-size: 470px;
+    background-size: 500px;
+    background-position-x: -100px;
     background-repeat: no-repeat;
-    background-image: url(../images/panico.PNG);
+    background-image: url(../images/diabinho.jpg);
 }
 #dish6{
     height: 500px;
-    background-position-x: -100px;
-    background-size: 510px;
+    background-position-x: -50px;
+    background-size: 450px;
+    background-position-y: ;
     background-repeat: no-repeat;
-    background-image: url(../images/sorriso.PNG);
+    background-image: url(../images/coracao.jpg);
 }
 
 h4{
